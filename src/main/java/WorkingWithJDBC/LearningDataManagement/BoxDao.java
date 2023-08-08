@@ -1,4 +1,4 @@
-package LearningDataManagement;
+package WorkingWithJDBC.LearningDataManagement;
 
 import java.util.List;
 import java.util.Optional;

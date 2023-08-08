@@ -1,8 +1,9 @@
-package LearningDataManagement;
+package WorkingWithJDBC.LearningDataManagement;
 
 import java.util.List;
 import java.util.Optional;
 
+@SuppressWarnings("unused")
 public interface Dao<T> {
     Optional<T> get(long id);
     List<T> getAll();
